@@ -6,6 +6,7 @@ i = 0
  while i < array.length do
   (array[i] ** 2)
    i +=1
+   array
  end
  # binding.pry
 end
