@@ -1,4 +1,4 @@
- require 'pry'
+ # require 'pry'
 
 def square_array(array)
 i = 0
@@ -7,5 +7,5 @@ i = 0
   puts  array[i] ** 2
    i +=1
  end
- binding.pry
+ # binding.pry
 end
